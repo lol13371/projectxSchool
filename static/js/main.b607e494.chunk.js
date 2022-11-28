@@ -668,7 +668,7 @@
                                             className: "priceSale mt-3",
                                             children: [Object(N.jsx)("span", {
                                                 id: "prices",
-                                                children: "PRICE : 0.088 ETH "
+                                                children: "PRICE : 0.05 ETH "
                                             }), " ", Object(N.jsx)("br", {}), Object(N.jsx)("span", {
                                                 id: "excluding",
                                                 children: " (excluding gas fees) "
