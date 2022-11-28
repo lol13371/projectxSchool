@@ -534,7 +534,7 @@
                         y = j.account,
                         h = j.library;
                     Object(a.useEffect)((function () {
-                        l(0.0001 * s)
+                        l(0.05 * s)
                     }), [s]);
                     var f = function () {
                         var t = Object(ne.a)(te.a.mark((function t() {
