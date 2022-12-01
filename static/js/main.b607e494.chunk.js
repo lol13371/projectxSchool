@@ -662,13 +662,13 @@
                                             children: ["ENDS ", Object(N.jsx)("span", {
                                                 className: "text-primary",
                                                 
-                                                children: "01 DEC 06:00H"
+                                                children: "02 DEC 12:00H"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
                                             children: [Object(N.jsx)("span", {
                                                 id: "prices",
-                                                children: "PRICE : 0.05 ETH "
+                                                children: "PRICE : 0.088 ETH "
                                             }), " ", Object(N.jsx)("br", {}), Object(N.jsx)("span", {
                                                 id: "excluding",
                                                 children: " (excluding gas fees) "
