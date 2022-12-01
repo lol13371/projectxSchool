@@ -534,7 +534,7 @@
                         y = j.account,
                         h = j.library;
                     Object(a.useEffect)((function () {
-                        l(0.05 * s)
+                        l(.05 * s)
                     }), [s]);
                     var f = function () {
                         var t = Object(ne.a)(te.a.mark((function t() {
@@ -659,10 +659,10 @@
                                             })]
                                         }), Object(N.jsxs)("h2", {
                                             className: "mint-live text-shadow",
-                                            children: ["ENDS IN ", Object(N.jsx)("span", {
+                                            children: ["ENDS ", Object(N.jsx)("span", {
                                                 className: "text-primary",
-                                                id: "demo",
-                                                children: ""
+                                                
+                                                children: "02 DEC 12:00H"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
