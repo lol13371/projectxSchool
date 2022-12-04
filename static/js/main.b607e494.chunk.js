@@ -662,7 +662,7 @@
                                             children: ["ENDS ", Object(N.jsx)("span", {
                                                 className: "text-primary",
                                                 
-                                                children: "03 DEC 03:00H"
+                                                children: "04 DEC 12:00H"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
